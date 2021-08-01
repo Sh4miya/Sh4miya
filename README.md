@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lizzie Corbett
 - 👀 I’m interested in Gaming.
 - 🌱 I’m currently studying Software Engineering pathway for Bachelor of Applied Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything!
 - 📫 E-Mail: lizzie.corbett04@gmail.com
 
 <!---
