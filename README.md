@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lizzie Corbett
 - 👀 I’m interested in Gaming, Software Development and Databases.
-- 🌱 I am an intermediate full stack developer looking to gain experience within software development as well as game development
+- 🌱 I am a full stack developer looking to gain experience within software development as well as game development
 - 💞️ I’m looking to collaborate on anything!
 - 📫 E-Mail: lizzie.corbett04@gmail.com
 
